@@ -1,0 +1,17 @@
+body {
+    font-family: 'work sans', serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Cedarville', cursive;
+    font-size: 3rem;
+}
+
+/* Navbar */
+
+/* Intro */
+.container {
+    margin-top: 3rem;
+    width: 50%;
+}
